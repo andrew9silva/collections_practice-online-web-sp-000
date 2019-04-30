@@ -36,3 +36,5 @@ def add_s(array)
       index
     else
       index << "s"
+    end
+  end
