@@ -24,3 +24,4 @@ end
 
 def find_a(array)
   array.select { |index| index[0] = "a"}
+end
