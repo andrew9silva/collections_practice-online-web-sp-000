@@ -25,3 +25,6 @@ end
 def find_a(array)
   array.find_all { |index| index[0] == "a"}
 end
+
+def sum_array(array)
+  
