@@ -38,3 +38,4 @@ def add_s(array)
       index << "s"
     end
   end
+end
